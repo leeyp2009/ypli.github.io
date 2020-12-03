@@ -11,9 +11,9 @@ title                    : "Yaping Li"
 title_separator          : "-"
 name                     : &name "Yaping Li"
 description              : &description "Postdoctoral researcher@LANL"
-url                      : https://ypli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leeyp2009.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leeyp2009/ypli.github.io"
+repository               : "leeyp2009/leeyp2009.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
