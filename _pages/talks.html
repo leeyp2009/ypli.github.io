@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: "Presentations"
+title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a presentation!</a></p>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
 
  * 2016/07/18 - 07/22:  [The Multi-Messenger Astrophysics of the Galactic Centre (IAUS322)](http://galacticcentre.space/), Palm Cove, Australia, <br/>
   Report: Flares of the supermassive black hole in the Galaxy
