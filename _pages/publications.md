@@ -51,7 +51,7 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     Effects of Ringed Structures and Dust Size Growth on Millimeter Observations of Protoplanetary Disks, <br/>
     [2019, ApJ, 878, 39](https://ui.adsabs.harvard.edu/abs/2019ApJ...878...39L/abstract)
 
- * Ma R.-Y., Roberts S.~R., **Li Y.-P.**, and Wang Q.~D.,<br/>
+ * Ma R.-Y., Roberts S. R., **Li Y.-P.**, and Wang Q.D.,<br/>
     Spectral energy distribution of the inner accretion flow around Sgr A* - clue for a weak outflow in the innermost region, <br/>
     [2019, MNRAS, 483, 5614](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5614M/abstract)
 
@@ -59,7 +59,7 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     Reconciling the quasar microlensing disc size problem with a wind model of active galactic nucleus, <br/>
     [2019, MNRAS, 483, 2275](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.2275L/abstract)
 
- * **Li Y.-P.**, Yuan F., Mo H.~J., Yoon D., Gan Z.-M., Ho L. C., Wang B., Ostriker J. P. and Ciotti L.,<br/>
+ * **Li Y.-P.**, Yuan F., Mo H. J., Yoon D., Gan Z.-M., Ho L. C., Wang B., Ostriker J. P. and Ciotti L.,<br/>
     Stellar and AGN Feedback in Isolated Early-type Galaxies: the Role in Regulating Star Formation and ISM Properties, <br/>
     [2018, ApJ, 866, 70](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...70L/abstract)
 
@@ -80,7 +80,7 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     Searching Ultra-compact Pulsar Binaries with Abnormal Timing Behavior, <br/>
     [2018, ApJ, 855, 35](http://iopscience.iop.org/article/10.3847/1538-4357/aaac34/meta)
 
- * **Li Y.-P.**, Yuan F. and  {Wang} Q.~D.,<br/>
+ * **Li Y.-P.**, Yuan F. and  Wang Q. D.,<br/>
     A Magnetohydrodynamic Model for Multi-wavelength Flares from Sagittarius A* (I): Model and the Near-infrared and X-ray flares,<br/>
     [2017, MNRAS, 468, 2552](https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stx655)
 
