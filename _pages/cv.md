@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download [**PDF**]({{ site.url }}/files/YPLi_CV.pdf) version of my CV.
+
 Education
 ======
 * B.S. in Applied Physics, Huazhong University of Science and Technology (HUST), 2005-2009
