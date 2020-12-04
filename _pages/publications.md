@@ -80,7 +80,7 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     Searching Ultra-compact Pulsar Binaries with Abnormal Timing Behavior, <br/>
     [2018, ApJ, 855, 35](http://iopscience.iop.org/article/10.3847/1538-4357/aaac34/meta)
 
- * **Li Y.-P.**, {Yuan} F. and  {Wang} Q.~D.,<br/>
+ * **Li Y.-P.**, Yuan F. and  {Wang} Q.~D.,<br/>
     A Magnetohydrodynamic Model for Multi-wavelength Flares from Sagittarius A* (I): Model and the Near-infrared and X-ray flares,<br/>
     [2017, MNRAS, 468, 2552](https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stx655)
 
@@ -96,7 +96,7 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
 
 
 
- * **Li Y.-P.**, Yuan F., Yuan Q., Wang Q. D., Chen P.~F., Neilsen J., Fang T., Zhang S. and Dexter J., <br/>
+ * **Li Y.-P.**, Yuan F., Yuan Q., Wang Q. D., Chen P. F., Neilsen J., Fang T., Zhang S. and Dexter J., <br/>
     Statistics of X-Ray Flares of Sagittarius A*: Evidence for Solar-like Self-organized Criticality Phenomena, <br/>
     [2015, ApJ, 810, 19](http://dx.doi.org/10.1088/0004-637X/810/1/19)
 
@@ -109,24 +109,21 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     The X-Ray Flux Distribution of Sagittarius A* as Seen by Chandra, <br/>
     [2015, ApJ, 799, 199](http://dx.doi.org/10.1088/0004-637X/799/2/199)
 
-* {Hou} S.-J., {Gao} H., {Liu} T., {Gu} W.-M.,
-	{Lin} D.-B., \textbf{Li Y.-P.}, {Men} Y.-P., {Wu} X.-F.,
-	{Lei} W.-H. and {Lu} J.-F., <br/>
-    \emph{Variability of the Giant X-ray Bump in GRB 121027A and Its Possible Origin}, <br/>
-    \href{http://dx.doi.org/10.1093/mnras/stu682}{2014, MNRAS, 441, 2375}
+* Hou S.-J., Gao H., Liu T., Gu W.-M., Lin D.-B., **Li Y.-P.**, Men Y.-P., Wu X.-F., Lei W.-H. and Lu J.-F., <br/>
+    Variability of the Giant X-ray Bump in GRB 121027A and Its Possible Origin, <br/>
+    [2014, MNRAS, 441, 2375](http://dx.doi.org/10.1093/mnras/stu682)
 
-* {Gong} B., {Kong} S.~W., {Xue} F., \textbf{Li Y.-P.} and
-	{Huang} Y.~F., <br/>
-    \emph{Non-ballistic Superluminal Motion in the Plane of the Sky - II.}, <br/>
-    \href{http://mnras.oxfordjournals.org/content/418/4/2451}{2011, MNRAS, 418, 2451}
+* Gong B., Kong S. W., Xue F., **Li Y.-P.** and	Huang Y. F., <br/>
+    Non-ballistic Superluminal Motion in the Plane of the Sky - II., <br/>
+    [2011, MNRAS, 418, 2451](http://mnras.oxfordjournals.org/content/418/4/2451)
 
-* {Gong} B.~P., \textbf{Li Y.-P.}, {Zhang} H.~C., <br/>
-    \emph{The First Kinematic Determination of Million-year Precession Period of Active Galactic Nuclei}, <br/>
-    \href{http://dx.doi.org/10.1088/2041-8205/734/2/L32}{2011, ApJL, 734, 32}
+* Gong B.P., **Li Y.-P.**, Zhang H.C., <br/>
+    The First Kinematic Determination of Million-year Precession Period of Active Galactic Nuclei, <br/>
+    [2011, ApJL, 734, 32](http://dx.doi.org/10.1088/2041-8205/734/2/L32)
     
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+// {% for post in site.publications reversed %}
+//  {% include archive-single.html %}
+// {% endfor %}
 
 
