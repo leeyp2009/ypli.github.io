@@ -12,9 +12,9 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
 * **Li, Ya-Ping** and Dempsey, A. and Li, S. and Li, H. and Li, J.,
     Orbital evolution of binary black holes in active galactic nucleus disks: a disk channel for binary black hole mergers? to be submitted to ApJ
 
-\item {\textbf{{Li}, Ya-Ping} and {Chen}, Yi-Xian and {Lin}, Douglas N.~C. and {Zhang}, Xiaojia},\\
-    \emph{Accretion of Gas Giants Constrained by the Tidal Barrier}, \\
-    \href{https://ui.adsabs.harvard.edu/abs/2020arXiv201102869L}{ 2020, ApJ, in press}
+* **Li, Ya-Ping** and Chen, Yi-Xian and Lin, Douglas N. C. and Zhang, Xiaojia,\\
+    Accretion of Gas Giants Constrained by the Tidal Barrier, \\
+    [2020, ApJ, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv201102869L)
 
 \item {{Lyu}, Fen and \textbf{{Li}, Ya-Ping}$^*$ and {Hou}, Shu-Jin and {Wei}, Jun-Jie and
          {Geng}, Jin-Jun$^*$ and {Wu}, Xue-Feng$^*$},\\
