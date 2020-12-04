@@ -17,18 +17,18 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     Accretion of Gas Giants Constrained by the Tidal Barrier, <br/>
     [2020, ApJ, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv201102869L)
 
-* {{Lyu}, Fen and \textbf{{Li}, Ya-Ping}$^*$ and {Hou}, Shu-Jin and {Wei}, Jun-Jie and
-         {Geng}, Jin-Jun$^*$ and {Wu}, Xue-Feng$^*$},\\
-    \emph{Self-organized criticality in multi-pulse gamma-ray bursts}, \\
-    \href{https://ui.adsabs.harvard.edu/abs/2020FrPhy..1614501L}{2020, FrPhy, 16, 14501}
+* Lyu, Fen and **Li, Ya-Ping**$^*$ and Hou, Shu-Jin and Wei, Jun-Jie and
+         Geng, Jin-Jun$^*$ and Wu, Xue-Feng$^*$},<br/>
+    Self-organized criticality in multi-pulse gamma-ray bursts, <br/>
+    [2020, FrPhy, 16, 14501](https://ui.adsabs.harvard.edu/abs/2020FrPhy..1614501L)
 
-* Chen Y., Zhang X., \textbf{Li Y.-P.}, Li H., and Lin D. C.,\\
-    \emph{Retention of Long-period Gas Giant Planets: Type II Migration Revisited}, \\
-    \href{https://ui.adsabs.harvard.edu/abs/2020ApJ...900...44C/abstract}{ 2020, ApJ, 900, 44}
+* Chen Y., Zhang X., **Li Y.-P.**, Li H., and Lin D. C.,<br/>
+    Retention of Long-period Gas Giant Planets: Type II Migration Revisited, <br/>
+    [2020, ApJ, 900, 44](https://ui.adsabs.harvard.edu/abs/2020ApJ...900...44C/abstract)
     
-* Chen Y., \textbf{Li Y.-P.}, Li H., and Lin D. C.,\\
-    \emph{The Preservation of Super Earths and the Emergence of Gas Giants after Their Progenitor Cores have Entered the Pebble Isolation Phase}, \\
-    \href{https://ui.adsabs.harvard.edu/abs/2020ApJ...896..135C/abstract}{ 2020, ApJ, 896, 135}
+* Chen Y., **Li Y.-P.**, Li H., and Lin D. C.,<br/>
+    The Preservation of Super Earths and the Emergence of Gas Giants after Their Progenitor Cores have Entered the Pebble Isolation Phase, <br/>
+    [2020, ApJ, 896, 135](https://ui.adsabs.harvard.edu/abs/2020ApJ...896..135C/abstract)
 
 * \textbf{Li Y.-P.}, Li H., Ricci L., Li S., Birnstiel T.,  Drazkowska J. and Stammler S.,\\
     \emph{Planet-induced Vortices with Dust Coagulation in Protoplanetary Disks}, \\
