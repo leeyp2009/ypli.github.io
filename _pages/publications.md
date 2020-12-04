@@ -39,26 +39,25 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     [2020, ApJL, 889L, 8](https://ui.adsabs.harvard.edu/abs/2020ApJ...889L...8L/abstract)
 
    
-
 * **Li Y.-P.**, Li H., Li S., Lin D. C.,<br/>
-    \emph{On the Dust Signatures Induced by Eccentric Super-Earths in Protoplanetary Disks}, <br/>
-    \href{https://ui.adsabs.harvard.edu/abs/2019ApJ...886...62L/abstract}{ 2019, ApJ, 886, 62}
+    On the Dust Signatures Induced by Eccentric Super-Earths in Protoplanetary Disks, <br/>
+    [2019, ApJ, 886, 62](https://ui.adsabs.harvard.edu/abs/2019ApJ...886...62L/abstract)
     
-* Bu J., \textbf{Li Y.-P.},<br/>
-    \emph{Constraints on axion-like particles with different magnetic field models from the PKS 2155-304 energy spectrum}, <br/>
-    \href{https://ui.adsabs.harvard.edu/abs/2019RAA....19..154B/abstract}{ 2019, RAA, 19,154}
+* Bu J., **Li Y.-P.**,<br/>
+    Constraints on axion-like particles with different magnetic field models from the PKS 2155-304 energy spectrum, <br/>
+    [2019, RAA, 19,154](https://ui.adsabs.harvard.edu/abs/2019RAA....19..154B/abstract)
 
- * \textbf{Li Y.-P.}, Li H., Ricci L., Li S., Birnstiel T., Isella A., Ansdell M., Yuan F., Drazkowska J. and Stammler S.,<br/>
-    \emph{Effects of Ringed Structures and Dust Size Growth on Millimeter Observations of Protoplanetary Disks}, <br/>
-    \href{https://ui.adsabs.harvard.edu/abs/2019ApJ...878...39L/abstract}{2019, ApJ, 878, 39}
+ * **Li Y.-P.**, Li H., Ricci L., Li S., Birnstiel T., Isella A., Ansdell M., Yuan F., Drazkowska J. and Stammler S.,<br/>
+    Effects of Ringed Structures and Dust Size Growth on Millimeter Observations of Protoplanetary Disks, <br/>
+    [2019, ApJ, 878, 39](https://ui.adsabs.harvard.edu/abs/2019ApJ...878...39L/abstract)
 
- * Ma R.-Y., Roberts S.~R., \textbf{Li Y.-P.}, and Wang Q.~D.,<br/>
-    \emph{Spectral energy distribution of the inner accretion flow around Sgr A* - clue for a weak outflow in the innermost region}, <br/>
-    \href{https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5614M/abstract}{2019, MNRAS, 483, 5614}
+ * Ma R.-Y., Roberts S.~R., **Li Y.-P.**, and Wang Q.~D.,<br/>
+    Spectral energy distribution of the inner accretion flow around Sgr A* - clue for a weak outflow in the innermost region, <br/>
+    [2019, MNRAS, 483, 5614](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.5614M/abstract)
 
- * \textbf{Li Y.-P.}, Yuan F., and Dai X.,<br/>
-    \emph{Reconciling the quasar microlensing disc size problem with a wind model of active galactic nucleus}, <br/>
-    \href{https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.2275L/abstract}{2019, MNRAS, 483, 2275}
+ * **Li Y.-P.**, Yuan F., and Dai X.,<br/>
+    Reconciling the quasar microlensing disc size problem with a wind model of active galactic nucleus, <br/>
+    [2019, MNRAS, 483, 2275](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.2275L/abstract)
 
  * \textbf{Li Y.-P.}, Yuan F., Mo H.~J., Yoon D., Gan Z.-M., Ho L.~C., Wang B., Ostriker J.~P. and Ciotti L.,<br/>
     \emph{Stellar and AGN Feedback in Isolated Early-type Galaxies: the Role in Regulating Star Formation and ISM Properties}, <br/>
