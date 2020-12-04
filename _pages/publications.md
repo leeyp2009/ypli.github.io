@@ -73,43 +73,41 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     [2018, ApJ, 857, 121](http://iopscience.iop.org/article/10.3847/1538-4357/aab8f8/meta)
 
  * Yu X.-D., Ma R.-Y., **Li Y.-P.**, Zhang H. and Fang T.,<br/>
-    The Profiles of Fe K\alpha Line from the Inhomogeneous Accretion Flow, <br/>
+    The Profiles of Fe K-alpha Line from the Inhomogeneous Accretion Flow, <br/>
     [2018, MNRAS, 476, 2045](https://academic.oup.com/mnras/article-abstract/476/2/2045/4855948?redirectedFrom=fulltext)
 
  * Gong B. P., **Li Y.-P.**, Yuan J. P., Tian J., Zhang Y. Y., Li D., Jiang B., Li X. D., Wang H. G., Zou Y. C. and Shao L. J.,<br/>
     Searching Ultra-compact Pulsar Binaries with Abnormal Timing Behavior, <br/>
     [2018, ApJ, 855, 35](http://iopscience.iop.org/article/10.3847/1538-4357/aaac34/meta)
 
- * \textbf{Li Y.-P.}, {Yuan} F. and  {Wang} Q.~D.,<br/>
-    \emph{A Magnetohydrodynamic Model for Multi-wavelength Flares from Sagittarius~A$^\star$ (I): Model and the Near-infrared and X-ray flares},<br/>
-    \href{https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stx655}{2017, MNRAS, 468, 2552}
+ * **Li Y.-P.**, {Yuan} F. and  {Wang} Q.~D.,<br/>
+    A Magnetohydrodynamic Model for Multi-wavelength Flares from Sagittarius A* (I): Model and the Near-infrared and X-ray flares,<br/>
+    [2017, MNRAS, 468, 2552](https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stx655)
 
- * {Yu} X.-D., \textbf{Li Y.-P.}, {Xie} F.-G. and {Ma} R.-Y.,<br/>
-    \emph{A Monte Carlo Study of the Spectra from Inhomogeneous Accretion Flow},<br/>
-    \href{http://iopscience.iop.org/article/10.1088/1674-4527/17/8/86/meta;jsessionid=D5E45F25C75831559D9E3E6B5325ABC8.c2.iopscience.cld.iop.org}{2017, RAA, 17, 86}
+ * Yu X.-D., **Li Y.-P.**, Xie F.-G. and Ma R.-Y.,<br/>
+    A Monte Carlo Study of the Spectra from Inhomogeneous Accretion Flow,<br/>
+    [2017, RAA, 17, 86](http://iopscience.iop.org/article/10.1088/1674-4527/17/8/86/meta;jsessionid=D5E45F25C75831559D9E3E6B5325ABC8.c2.iopscience.cld.iop.org)
 
     
 
-  * \textbf{Li Y.-P.}, {Yuan} F. and {Xie} F.-G.,<br/>
-    %\item
-    \emph{Exploring the Accretion Model of Low-Luminosity Active Galactic Nuclei with the Faraday Rotation Measure Observations},<br/>
-    \href{http://iopscience.iop.org/article/10.3847/0004-637X/830/2/78}{2016, ApJ, 830, 78}
+  * **Li Y.-P.**, Yuan F. and Xie F.-G.,<br/>
+    Exploring the Accretion Model of Low-Luminosity Active Galactic Nuclei with the Faraday Rotation Measure Observations,<br/>
+    [2016, ApJ, 830, 78](http://iopscience.iop.org/article/10.3847/0004-637X/830/2/78)
 
 
 
- * \textbf{Li Y.-P.}, {Yuan} F., {Yuan} Q., {Wang} Q.~D., Chen P.~F., {Neilsen} J., {Fang} T., {Zhang} S. and
-	{Dexter} J., <br/>
-    \emph{Statistics of X-Ray Flares of Sagittarius A*: Evidence for Solar-like Self-organized Criticality Phenomena}, <br/>
-    \href{http://dx.doi.org/10.1088/0004-637X/810/1/19}{2015, ApJ, 810, 19}
+ * **Li Y.-P.**, Yuan F., Yuan Q., Wang Q. D., Chen P.~F., Neilsen J., Fang T., Zhang S. and Dexter J., <br/>
+    Statistics of X-Ray Flares of Sagittarius A*: Evidence for Solar-like Self-organized Criticality Phenomena, <br/>
+    [2015, ApJ, 810, 19](http://dx.doi.org/10.1088/0004-637X/810/1/19)
 
-* \textbf{Li Y.-P.}, {Yuan} F. and {Wang} Q.~D., <br/>
-    \emph{Confronting the Jet Model of Sgr A* with the Faraday Rotation Measure Observations}, <br/>
-    \href{http://dx.doi.org/10.1088/0004-637X/798/1/22}{2015, ApJ, 798, 22}
+* **Li Y.-P.**, Yuan F. and Wang Q. D., <br/>
+    Confronting the Jet Model of Sgr A* with the Faraday Rotation Measure Observations, <br/>
+    [2015, ApJ, 798, 22](http://dx.doi.org/10.1088/0004-637X/798/1/22)
 
-* {Neilsen} J., {Markoff} S., {Nowak} M.~A., {Dexter} J., {Witzel} G., {Barri{\`e}re} N., \textbf{Li Y.-P.}, {Baganoff} F.~K.,
-	{Degenaar} N., {Fragile} P.~C., {Gammie} C., {Goldwurm} A., {Grosso} N. and {Haggard} D., <br/>
-    \emph{The X-Ray Flux Distribution of Sagittarius A* as Seen by Chandra}, <br/>
-    \href{http://dx.doi.org/10.1088/0004-637X/799/2/199}{2015, ApJ, 799, 199}
+* Neilsen J., Markoff S., Nowak M. A., Dexter J., Witzel G., Barri\'ere N., **Li Y.-P.**, Baganoff F. K.,
+	Degenaar N., Fragile P. C., Gammie C., Goldwurm A., Grosso N. and Haggard D., <br/>
+    The X-Ray Flux Distribution of Sagittarius A* as Seen by Chandra, <br/>
+    [2015, ApJ, 799, 199](http://dx.doi.org/10.1088/0004-637X/799/2/199)
 
 * {Hou} S.-J., {Gao} H., {Liu} T., {Gu} W.-M.,
 	{Lin} D.-B., \textbf{Li Y.-P.}, {Men} Y.-P., {Wu} X.-F.,
