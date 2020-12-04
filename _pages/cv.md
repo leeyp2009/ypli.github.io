@@ -18,13 +18,13 @@ Research Experience \& Employment
 ======
 * 2012/02 $-$ 2013/02, Visiting student, Department of Astronomy, Peking University
   
-* {2014/09 $-$ 2014/12}{Visiting student}{Department of Astronomy, University of Massachusetts Amherst}
+* 2014/09 $-$ 2014/12, Visiting student, Department of Astronomy, University of Massachusetts Amherst
 
-* {2016/08 $-$ 2018/10}{PostDoc in Astrophysics}{Shanghai Astronomical Observatory (SHAO)
+* 2016/08 $-$ 2018/10, PostDoc in Astrophysics, Shanghai Astronomical Observatory (SHAO)
 
-* {2018/02 $-$ 2018/07}{Visiting Scholar}{Theoretical Division, Los Alamos National Laboratory}
+* 2018/02 $-$ 2018/07, Visiting Scholar}{Theoretical Division, Los Alamos National Laboratory}
 
-* {2018/10 $-$ present}{Postdoctoral research associate}{Theoretical Division, Los Alamos National Laboratory}
+* 2018/10 $-$ present, Postdoctoral research associate}{Theoretical Division, Los Alamos National Laboratory}
 
 Grants \& Awards
 ======
