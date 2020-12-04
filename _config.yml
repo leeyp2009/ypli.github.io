@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yaping Li's Homepage"
 title_separator          : "-"
-name                     : &name "Yaping Li"
+name                     : &name "Yaping Li's Homepage"
 description              : &description "Postdoctoral researcher@LANL"
 url                      : https://leeyp2009.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
