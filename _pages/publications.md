@@ -122,8 +122,8 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     [2011, ApJL, 734, 32](http://dx.doi.org/10.1088/2041-8205/734/2/L32)
     
 
-// {% for post in site.publications reversed %}
-//  {% include archive-single.html %}
-// {% endfor %}
+# {% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+# {% endfor %}
 
 
