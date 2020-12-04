@@ -9,8 +9,8 @@ author_profile: true
 see my publication list from [\[**Google Scholar**\]](https://scholar.google.com/citations?user=bGL6kUQAAAAJ&hl=en)
 and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9ugtGg).<br/>
 
-\item {\textbf{{Li}, Ya-Ping} and {Dempsey}, A. and {Li}, S. and {Li}, H. and {Li}, J.},\\
-    \emph{Orbital evolution of binary black holes in active galactic nucleus disks: a disk channel for binary black hole mergers?} submitted to ApJ
+* **Li, Ya-Ping** and Dempsey, A. and Li, S. and Li, H. and Li, J.,
+    Orbital evolution of binary black holes in active galactic nucleus disks: a disk channel for binary black hole mergers? to be submitted to ApJ
 
 \item {\textbf{{Li}, Ya-Ping} and {Chen}, Yi-Xian and {Lin}, Douglas N.~C. and {Zhang}, Xiaojia},\\
     \emph{Accretion of Gas Giants Constrained by the Tidal Barrier}, \\
