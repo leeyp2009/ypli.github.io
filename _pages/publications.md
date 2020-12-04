@@ -59,27 +59,26 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     Reconciling the quasar microlensing disc size problem with a wind model of active galactic nucleus, <br/>
     [2019, MNRAS, 483, 2275](https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.2275L/abstract)
 
- * \textbf{Li Y.-P.}, Yuan F., Mo H.~J., Yoon D., Gan Z.-M., Ho L.~C., Wang B., Ostriker J.~P. and Ciotti L.,<br/>
-    \emph{Stellar and AGN Feedback in Isolated Early-type Galaxies: the Role in Regulating Star Formation and ISM Properties}, <br/>
-    \href{https://ui.adsabs.harvard.edu/abs/2018ApJ...866...70L/abstract}{2018, ApJ, 866, 70}
+ * **Li Y.-P.**, Yuan F., Mo H.~J., Yoon D., Gan Z.-M., Ho L. C., Wang B., Ostriker J. P. and Ciotti L.,<br/>
+    Stellar and AGN Feedback in Isolated Early-type Galaxies: the Role in Regulating Star Formation and ISM Properties, <br/>
+    [2018, ApJ, 866, 70](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...70L/abstract)
 
- * Yoon D., Yuan F., Gan Z.-M., Ostriker J.~P., \textbf{Li Y.-P.} and Ciotti L., <br/>
-    \emph{Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-Angular Momentum Case}, <br/>
-    \href{https://ui.adsabs.harvard.edu/abs/2018ApJ...864....6Y/abstract}{2018, ApJ, 864, 6}
+ * Yoon D., Yuan F., Gan Z.-M., Ostriker J. P., **Li Y.-P.** and Ciotti L., <br/>
+    Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-Angular Momentum Case, <br/>
+    [2018, ApJ, 864, 6](https://ui.adsabs.harvard.edu/abs/2018ApJ...864....6Y/abstract)
 
 
+ * Yuan F., Yoon D., **Li Y.-P.**, Gan Z.-M., Ho L. C. and Guo F., <br/>
+    Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case, <br/>
+    [2018, ApJ, 857, 121](http://iopscience.iop.org/article/10.3847/1538-4357/aab8f8/meta)
 
- * Yuan F., Yoon D., \textbf{Li Y.-P.}, Gan Z.-M., Ho L.~C. and Guo F., <br/>
-    \emph{Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case}, <br/>
-    \href{http://iopscience.iop.org/article/10.3847/1538-4357/aab8f8/meta}{2018, ApJ, 857, 121}
+ * Yu X.-D., Ma R.-Y., **Li Y.-P.**, Zhang H. and Fang T.,<br/>
+    The Profiles of Fe K\alpha Line from the Inhomogeneous Accretion Flow, <br/>
+    [2018, MNRAS, 476, 2045](https://academic.oup.com/mnras/article-abstract/476/2/2045/4855948?redirectedFrom=fulltext)
 
- * {Yu} X.-D., {Ma} R.-Y., \textbf{Li Y.-P.}, Zhang H. and Fang T.,<br/>
-    \emph{The Profiles of Fe K$\alpha$ Line from the Inhomogeneous Accretion Flow}, <br/>
-    \href{https://academic.oup.com/mnras/article-abstract/476/2/2045/4855948?redirectedFrom=fulltext}{2018, MNRAS, 476, 2045}
-
- * Gong B. P., \textbf{Li Y.-P.}, Yuan J. P., Tian J., Zhang Y. Y., Li D., Jiang B., Li X. D., Wang H. G., Zou Y. C. and Shao L. J.,<br/>
-    \emph{Searching Ultra-compact Pulsar Binaries with Abnormal Timing Behavior}, <br/>
-    \href{http://iopscience.iop.org/article/10.3847/1538-4357/aaac34/meta}{2018, ApJ, 855, 35}
+ * Gong B. P., **Li Y.-P.**, Yuan J. P., Tian J., Zhang Y. Y., Li D., Jiang B., Li X. D., Wang H. G., Zou Y. C. and Shao L. J.,<br/>
+    Searching Ultra-compact Pulsar Binaries with Abnormal Timing Behavior, <br/>
+    [2018, ApJ, 855, 35](http://iopscience.iop.org/article/10.3847/1538-4357/aaac34/meta)
 
  * \textbf{Li Y.-P.}, {Yuan} F. and  {Wang} Q.~D.,<br/>
     \emph{A Magnetohydrodynamic Model for Multi-wavelength Flares from Sagittarius~A$^\star$ (I): Model and the Near-infrared and X-ray flares},<br/>
