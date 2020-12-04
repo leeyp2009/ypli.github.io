@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaping Li's Homepage"
+title                    : "Yaping Li@LANL"
 title_separator          : "-"
 name                     : &name "Yaping Li's Homepage"
 description              : &description "Postdoctoral researcher@LANL"
