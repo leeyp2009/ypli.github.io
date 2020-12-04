@@ -20,17 +20,17 @@ Research Experience \& Employment
   
 * 2014/09 - 2014/12, Visiting student, Department of Astronomy, University of Massachusetts Amherst
 
-* 2016/08 - 2018/10, PostDoc in Astrophysics, Shanghai Astronomical Observatory (SHAO)
+* 2016/08 - 2018/10, PostDoc in Astrophysics, Shanghai Astronomical Observatory
 
-* 2018/02 - 2018/07, Visiting Scholar}{Theoretical Division, Los Alamos National Laboratory}
+* 2018/02 - 2018/07, Visiting Scholar, Theoretical Division, Los Alamos National Laboratory
 
-* 2018/10 - present, Postdoctoral research associate}{Theoretical Division, Los Alamos National Laboratory}
+* 2018/10 - present, Postdoctoral research associate, Theoretical Division, Los Alamos National Laboratory
 
 Grants \& Awards
 ======
-* Grant: Natural Science Foundation of China (Youth project), 2018/01 - 2020/12, RMB 270K, PI.
+* Grant: Natural Science Foundation of China (Youth project), 2018/01 - 2020/12, PI.
   * project: Theoretical studies of flares from black hole systems and related transient phenomena.
-* Grant: Shanghai Sailing Program, 2017/05 - 2020/4, RMB 200K, PI.
+* Grant: Shanghai Sailing Program, 2017/05 - 2020/4, PI.
   * project: Studies of multi-wavelength flares from accreting black hole systems.
 * Computing time allocation: LANL Institutional Computing Projects, 2020, 10M CPU hours, PI.
   * project: Exploring Planet-disk Interaction in Dusty Protoplanetary Disks and Their Observational Implications.
