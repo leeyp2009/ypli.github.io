@@ -14,7 +14,7 @@ Education
 * B.S. in Applied Physics, Huazhong University of Science and Technology (HUST), 2005-2009
 * Ph.D in Theoretical Physics, Xiamen University, 2011-2016
 
-Research Experience \& Employment
+Research Experience & Employment
 ======
 * 2012/02 - 2013/02, Visiting student, Department of Astronomy, Peking University
   
@@ -26,7 +26,7 @@ Research Experience \& Employment
 
 * 2018/10 - present, Postdoctoral research associate, Theoretical Division, Los Alamos National Laboratory
 
-Grants \& Awards
+Grants & Awards
 ======
 * Grant: Natural Science Foundation of China (Youth project), 2018/01 - 2020/12, PI.
   * project: Theoretical studies of flares from black hole systems and related transient phenomena.
@@ -39,15 +39,5 @@ Grants \& Awards
 * Observational project: JVLA, 2020, PI. Hauyu Liu
   * project: The first constraint on the properties of dust vortex.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
