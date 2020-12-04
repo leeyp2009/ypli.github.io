@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [**PDF**]({{ site.url }}/files/YPLi_CV.pdf) version of my CV.
+Download [**PDF**]({{ site.url }}/files/ypli_cv.pdf) version of my CV.
 
 Education
 ======
