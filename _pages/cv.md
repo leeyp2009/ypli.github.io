@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Physics, Department of Physics, Huazhong University of Science and Technology (HUST), 2005-2009
-* Ph.D in Theoretical Physics, Department of Physics (Department of Astronomy), Xiamen University, 2011-2016
+* B.S. in Applied Physics, Huazhong University of Science and Technology (HUST), 2005-2009
+* Ph.D in Theoretical Physics, Xiamen University, 2011-2016
 
 Work experience
 ======
