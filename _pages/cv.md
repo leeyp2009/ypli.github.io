@@ -14,26 +14,30 @@ Education
 * B.S. in Applied Physics, Huazhong University of Science and Technology (HUST), 2005-2009
 * Ph.D in Theoretical Physics, Xiamen University, 2011-2016
 
-Work experience
+Research Experience \& Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012/02 $-$ 2013/02, Visiting student, Department of Astronomy, Peking University
   
-Skills
+* {2014/09 $-$ 2014/12}{Visiting student}{Department of Astronomy, University of Massachusetts Amherst}
+
+* {2016/08 $-$ 2018/10}{PostDoc in Astrophysics}{Shanghai Astronomical Observatory (SHAO)
+
+* {2018/02 $-$ 2018/07}{Visiting Scholar}{Theoretical Division, Los Alamos National Laboratory}
+
+* {2018/10 $-$ present}{Postdoctoral research associate}{Theoretical Division, Los Alamos National Laboratory}
+
+Grants \& Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Grant: Natural Science Foundation of China (Youth project), 2018/01$-$2020/12, RMB 270K, PI.
+  * project: Theoretical studies of flares from black hole systems and related transient phenomena.
+* Grant: Shanghai Sailing Program, 2017/05$-$2020/4, RMB 200K, PI.
+  * project: Studies of multi-wavelength flares from accreting black hole systems.
+* Computing time allocation: LANL Institutional Computing Projects, 2020, 10M CPU hours, PI.
+  * project: Exploring Planet-disk Interaction in Dusty Protoplanetary Disks and Their Observational Implications.
+* Computing time allocation: LANL Institutional Computing Projects, 2021, 11M CPU hours, PI.
+  * project: Interactions of Multiple Protoplanets in Dusty Protoplanetary Disks.
+* Observational project: JVLA, 2020, PI. Hauyu Liu
+  * project: The first constraint on the properties of dust vortex.
 
 Publications
 ======
