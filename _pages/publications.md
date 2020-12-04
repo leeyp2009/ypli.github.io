@@ -17,8 +17,7 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     Accretion of Gas Giants Constrained by the Tidal Barrier, <br/>
     [2020, ApJ, in press](https://ui.adsabs.harvard.edu/abs/2020arXiv201102869L)
 
-* Lyu, Fen and **Li, Ya-Ping**$^*$ and Hou, Shu-Jin and Wei, Jun-Jie and
-         Geng, Jin-Jun$^*$ and Wu, Xue-Feng$^*$},<br/>
+* Lyu, Fen and **Li, Ya-Ping** and Hou, Shu-Jin and Wei, Jun-Jie and Geng, Jin-Jun and Wu, Xue-Feng, <br/>
     Self-organized criticality in multi-pulse gamma-ray bursts, <br/>
     [2020, FrPhy, 16, 14501](https://ui.adsabs.harvard.edu/abs/2020FrPhy..1614501L)
 
@@ -122,8 +121,5 @@ and [\[**ADS**\]](https://ui.adsabs.harvard.edu/user/libraries/PkFi6jPtRS-1GXEa9
     [2011, ApJL, 734, 32](http://dx.doi.org/10.1088/2041-8205/734/2/L32)
     
 
-# {% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-# {% endfor %}
 
 
